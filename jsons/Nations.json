@@ -69,7 +69,6 @@
 	},
 	
 	
-	
 	// City-States sorted by cityStateType, name
 	{
 		"name": "Edinburgh",
@@ -95,5 +94,5 @@
 		"innerColor": [0,102,102],
 		"cities": ["Edinburgh"],
 	},
-	
+
 ]
