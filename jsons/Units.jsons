@@ -352,6 +352,7 @@
 		"requiredTech": "Machinery",
 		"upgradesTo": "Cannon",
 		"obsoleteTech": "Dynamite",
+		"promotions": ["Blitz", "Indirect Fire", "Volley"],
 		"uniques": ["No defensive terrain bonus","Rough terrain penalty","Bonus vs City 100%","Limited Visibility","Must set up to ranged attack"]
 		"hurryCostModifier": 20,
 		"attackSound": "arrow"
