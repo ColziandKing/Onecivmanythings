@@ -139,7 +139,7 @@
 		"innerColor": [2,5,0],
 
 		"uniqueName": "This is the Way",
-		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[-25]% maintenance costs <for [Land] units>"], "[-66]% maintenance costs <for [Water] units>", "Receive a free Social Policy when you advance to the next era", "Receive free [Merchant of Awesomeness] when you discover [Optics]", "When a city is conquered, gain a free Technology. Gaining a city through a trade deal does not count,
+		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[-25]% maintenance costs <for [Land] units>"], "[-66]% maintenance costs <for [Water] units>", "Receive a free Social Policy when you advance to the next era", "Receive free [Merchant of Awesomeness] when you discover [Optics]", "When a city is conquered, gain a free Technology. Gaining a city through a trade deal does not count", "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
 			"50% chance of capturing defeated Barbarian naval units and earning 25 Gold"],
 		"cities": ["Rasthiobel", 
 	},    
