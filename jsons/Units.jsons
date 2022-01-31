@@ -340,5 +340,21 @@
 			"Great Person - [War]", "Unbuildable", "[+1] Visibility Range", "Invisible to others"],
 		"movement": 3
 	},
+	{
+		"name": "Siege Elephant",
+		"unitType": "Ranged",
+		"uniqueTo": "Colziand",
+		"replaces": "Trebuchet",
+		"movement": 3,
+		"strength": 16,
+		"rangedStrength": 19,
+		"cost": 150,
+		"requiredTech": "Machinery",
+		"upgradesTo": "Cannon",
+		"obsoleteTech": "Dynamite",
+		"uniques": ["No defensive terrain bonus","Rough terrain penalty","Bonus vs City 100%","Limited Visibility","Must set up to ranged attack"]
+		"hurryCostModifier": 20,
+		"attackSound": "arrow"
+	},
 	
     ]
