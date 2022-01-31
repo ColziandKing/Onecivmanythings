@@ -75,6 +75,32 @@
 		"startBias": ["Grassland"],
   	        "preferredVictoryType": "Diplomatic",
 
+		"startIntroPart1": "Yo, Mando. So now, your gonna rule over all your people of Mandalore? Ever since you defeated Moff Gideon and won the darksaber, Bo Katan Kryze now wants you lead the new Mandalore.",
+		"startIntroPart2": "Mando, I mean Din Djarin. Are you up for the battle to restore Mandalore?",
+
+		"declaringWar": "I could bring you in warm or I could bring you in cold?",
+		"attacked": "Dang Ferrick!",
+		"defeated":  "I guess this is the way.",
+		"introduction":  "Greetings! I am a Mandalorian, you can hire us for work.",
+		"neutralHello": "I'm on a bounty.",
+		"hateHello": "You have the guts to meet me?!",
+		"tradeRequest": "Hey, I think we can agree on this",
+
+	        "outerColor": [3,21,0],
+		"innerColor": [2,5,0],
+
+		"uniqueName": "This is the Way",
+		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[-25]% maintenance costs <for [Land] units>"], "[-66]% maintenance costs <for [Water] units>",
+			"50% chance of capturing defeated Barbarian naval units and earning 25 Gold"],
+		"cities": ["Sundari", "Keldabe", "Enceri", "Norg Bral", "Clan Wren", "Kryze", "Bralsin", "Shuror"],
+	},    
+	{
+		"name": "???",
+		"leaderName": "???",
+		"adjective": ["Mandalorian"],
+		"startBias": ["Grassland"],
+  	        "preferredVictoryType": "Diplomatic",
+
 		"startIntroPart1": "Be welcomed, princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Salumi emerged to a great nation. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Salumi to achieve greatness.",
 // Will you prove and win the argument of the arepas?
 		"startIntroPart2": "Princesses, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
@@ -91,7 +117,8 @@
 		"innerColor": [2,5,0],
 
 		"uniqueName": "This is the Way",
-		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[-25]% maintenance costs <for [Land] units>"],
+		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[-25]% maintenance costs <for [Land] units>"], "[-66]% maintenance costs <for [Water] units>",
+			"50% chance of capturing defeated Barbarian naval units and earning 25 Gold"],
 		"cities": [
 	},    
 	{
@@ -107,16 +134,40 @@
 		"cities": ["Edinburgh"],
 	},
 	{
-		"name": "Edinburgh",
-		"adjective": ["Edinburghensian"],
+		"name": "Auckland",
+		"adjective": ["Aucklander"],
+		"cityStateType": "Industrial",
+
+		"declaringWar": "War over peace? We shall fight!",
+		"attacked": "You'll suffer greatly when we win!",
+		"defeated": "May we live in your honor of victory over us",
+		"outerColor": [0, 0, 0],
+		"innerColor": [0,180,111],
+		"cities": ["Auckland", "Wellington"],
+	},
+	{
+		"name": "Fez",
+		"adjective": ["Fezian"],
+		"cityStateType": "Scientific",
+
+		"declaringWar": "War it must be!",
+		"attacked": "You scum!",
+		"defeated": "A defeat is a defeat.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [2,24,54],
+		"cities": ["Fez"],
+	},
+	{
+		"name": "Dublin",
+		"adjective": ["Dubliner"],
 		"cityStateType": "Militaristic",
 
-		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
-		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your head!",
-		"defeated": "Vile ruler, know that you 'won' this war in name only!",
+		"declaringWar": "War lingers in our hearts. Why carry on with a false peace?",
+		"attacked": "You gormless radger! You'll dine on your own teeth before you set foot in Ireland!",
+		"defeated": "A lonely wind blows through the highlands today. A dirge for Ireland. Can you hear it?",
 		"outerColor": [0, 0, 0],
-		"innerColor": [0,102,102],
-		"cities": ["Edinburgh"],
+		"innerColor": [211,180,113],
+		"cities": ["Dublin"],
 	},
 	
 ]
