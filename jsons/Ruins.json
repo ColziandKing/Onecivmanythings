@@ -1,7 +1,7 @@
 [
   {
-        "name": "reveal nearby Barbarian camps",
+        "name": "reveal nearby Wonder",
         "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
-        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+        "uniques": ["Reveal up to [All] [Wonder] within a [20] tile radius"]
     },
   ]
