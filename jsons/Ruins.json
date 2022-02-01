@@ -1,0 +1,7 @@
+[
+  {
+        "name": "reveal nearby Barbarian camps",
+        "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+    },
+  ]
