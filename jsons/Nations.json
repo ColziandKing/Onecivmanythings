@@ -1,7 +1,7 @@
 [
 {
-		"name": "Prototype Colziand, The Unity Act",
-		"leaderName": "Raymond of Colziand",
+		"name": "Colziand",
+		"leaderName": "Raymond Sheen Caballero",
 		"adjective": ["Colziand"],
                  "startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
@@ -27,18 +27,18 @@
 		"adjective": ["Otaku"],
                 "startBias": ["Coast"],
 		"preferredVictoryType": "Diplomatic",
-		"startIntroPart1": "hax, hax, HAX",
+		"startIntroPart1": "Mondification in delight",
 		"declaringWar": "get rekd!",
-		"attacked": "THES IS SPARt... i mean Hack Land",
-		"defeated": "oh well, i guess ill make some more QAnon...",
-		"introduction": "how much code does it make to make you?",
-		"neutralHello": "yo",
-		"hateHello": "oh..you, tell me what you want",
-		"tradeRequest": "It appears that you have a gigabyte of interest",
+		"attacked": "These is Mod... Mod Land",
+		"defeated": "oh well, i guess ill make some more Mods...",
+		"introduction": "how much mods does it make to make you?",
+		"neutralHello": "moody",
+		"hateHello": "oh..you, tell me what you mod",
+		"tradeRequest": "It appears that you have a mod of interest",
 		"cities": ["Lucky Patcher", "AC Market", "Cree Hack", "Leo Play Card", "Mod Droid", "A1", "An1", "Android1", "Happy Mod", "Android Apk Mods", "Game Guardian", "just...google?"],
 		"outerColor": [250,0,0],
 		"innerColor": [0,250,0], 
-		"uniqueName": "The way of the Hack Lords",
+		"uniqueName": "The way of the Mod Lordess",
 		"uniques": ["May buy [All] buildings for [100] [Culture] [in all cities]", "May buy [All] units for [100] [Culture] [in all cities]", "[+1 Science, +1 Food, +1 Gold, +1 Production, +1 Culture, +1 Faith, +1 Happiness] from every specialist [in all cities]", "[+1 Science, +1 Food, +1 Gold, +10 Production, +1 Culture, +1 Faith, +1 Happiness] from [All] tiles [in all cities]"]
 },
 {
@@ -60,8 +60,8 @@
 		"hateHello": "Assh, what do you want?",
 		"tradeRequest": "I  thought you might be intested in this...",
 
-	        "outerColor": [265,247,0],
-		"innerColor": [2,47,950],
+	        "outerColor": [255,51,255],
+		"innerColor": [255,204,255],
 
 		"uniqueName": "Salumi Chocolate Love",
 		"uniques": ["[+3 Culture] from every [Plantation]","[+1 Gold] from every [Plantation]","[+1 Food] from every [Plantation]","[+30]% Strength <vs [Barbarian] units>"],
@@ -103,7 +103,7 @@
 		"declaringWar": "For the Empire, we will defeat you.",
 		"attacked": "U fu fu fu fu....., so you chose the war.",
 		"defeated": "So, we lost, but us will never fail.",
-		"introduction": "Hi, I am Maria, the Maid.",
+		"introduction": "Hi, I am Maria Campbell, the Maid.",
 		"neutralHello": "Welcome.",
 		"hateHello": "You again? I don't want to see you now.",
 		"tradeRequest": "I have something want to trade with you.",
@@ -112,7 +112,7 @@
 		"uniqueName": "Maid Policies",
 		"uniques": ["[+1 Production, +1 Culture] from every specialist", "[+1 Happiness] [in all cities]",
 			"[+1 Happiness, +1 Culture] from every [Castle]", "+[15]% combat bonus for units fighting in [Friendly Land]"],
-		"cities": ["Maidlyopolis", "Edonara", "Maria", "Mariel", "Yuri Alpha", "Belfast", "Sakuya", "Angelina", "Dragon Maid",
+		"cities": ["Maidlyopolis", "Edonara", "Marianna", "Mariel", "Yuri Alpha", "Belfast", "Sakuya", "Angelina", "Dragon Maid",
 			"Hammann", "Farin K. Ehrlichkeit", "Noel K. Ehrlichkeit", "Aqua", "Kaoru", "Wilhelmina Carmel", "Lizlet L. Chelsie", "Mahoro", "Hazuki",
 			"Arianna", "Rem-Ram", "Cordelia"]
 	    },
@@ -123,32 +123,24 @@
 		"startBias": ["Hills"],
   	        "preferredVictoryType": "Diplomatic",
 
-		"startIntroPart1": "Be welcomed, princesses. You lead the beatiful and joyful nation of Salumi, a country filled more women than men with great cultural and bio diversity. ...One, two, three! Three had been the attempts to break free - getting terribly punished - but with determination, Salumi emerged to a great nation. Since the start we had a ton of great political division, which brought many problems and conflicts, but despite all the troubles, Salumi ought to help other, no matter what. The conflicts didn't cease until early 21st century, where the sun finally rises over Salumi to achieve greatness.", "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
-// Will you prove and win the argument of the arepas?
-		"startIntroPart2": "Princesses, your people want you to lead them to greatness. They want you to convert them in to the best nation. Will you answer the call? Can you fight and triump over the adversities? Can you build a civilization that can stand the pass of time?",
-
-		"declaringWar": "I could bring you in warm or I could bring you in cold?",
-		"attacked": "Dang Ferrick!",
-		"defeated":  "I guess this is the way.",
-		"introduction":  "Greetings! This is Salumi, our wordeful land. Want a kiss?",
-		"neutralHello": "Hello There.",
-		"hateHello": "Assh, what do you want?",
-		"tradeRequest": "I  thought you might be intested in this...",
+		"startIntroPart1": "High & high it be the roar to our king of our ancestors realm. This land where we stand, where our ancestors fought and lost blood & soul. We have kept it out of alien invaders. Who want our people dead for our difference from themselves, should we dominate the outsiders or become allies with them for a nation of nations that has been prophesied for a long time. It was when our rebellious past, left the one and only truth. Then came that from domination of those who stray in our lands to a change of letting them in our lands and giving them great hospitality",
+		"startIntroPart2": "Prince, O' Future King! Lead us like your heirs and those who lead us before you.",
+		"declaringWar": "Our ancesters were not yet much of a civilization but barbarians, we shall vanquish you and become greater than ever.",
+		"attacked": "Bahhh! You will become nothing.",
+		"defeated":  "We have become nothing!",
+		"introduction":  "High Hello to you. To our wonderful realm, have you come to join our might?",
+		"neutralHello": "High Hello to you.",
+		"hateHello": "Bahhh! What?",
+		"tradeRequest": "High Hello to you, I have something to trade with ya.",
 
 	        "outerColor": [3,21,0],
 		"innerColor": [2,5,0],
 
-		"uniqueName": "This is the Way",
+		"uniqueName": "New Beginning",
 		"uniques": ["67% chance to earn 25 Gold and recruit a Barbarian unit from a conquered encampment", "[-25]% maintenance costs <for [Land] units>"], "[-66]% maintenance costs <for [Water] units>", "Receive a free Social Policy when you advance to the next era", "Receive free [Merchant of Awesomeness] when you discover [Optics]", "When a city is conquered, gain a free Technology. Gaining a city through a trade deal does not count", "Adopting new Policy branch may trigger Social Change event in your Capital, which will provide Free Technology once completed.",
 			"50% chance of capturing defeated Barbarian naval units and earning 25 Gold"],
 		"cities": ["Rasthiobel", "Heroinedia", "Berkion", "Poparfont", "Deskraston", "Marbona", "Gingerwhite"]
 	},    
-        {
-		"name": "Golden Wing",
-		"outerColor": [16,,0],
-		"innerColor": [182,0,0],
-		"uniques": ["Can only heal by pillaging"]
-	},
 	{
 		"name": "Edinburgh",
 		"adjective": ["Edinburghensian"],
@@ -160,30 +152,6 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
 		"cities": ["Edinburgh"],
-	},
-	{
-		"name": "Auckland",
-		"adjective": ["Aucklander"],
-		"cityStateType": "Industrial",
-
-		"declaringWar": "War over peace? We shall fight!",
-		"attacked": "You'll suffer greatly when we win!",
-		"defeated": "May we live in your honor of victory over us",
-		"outerColor": [0, 0, 0],
-		"innerColor": [0,180,111],
-		"cities": ["Auckland", "Wellington"],
-	},
-	{
-		"name": "Fez",
-		"adjective": ["Fezian"],
-		"cityStateType": "Scientific",
-
-		"declaringWar": "War it must be!",
-		"attacked": "You scum!",
-		"defeated": "A defeat is a defeat.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [2,24,54],
-		"cities": ["Fez"],
 	},
 	{
 		"name": "Dublin",
