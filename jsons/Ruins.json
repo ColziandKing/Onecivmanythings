@@ -1,7 +1,0 @@
-[
-  {
-        "name": "reveal nearby Natural Wonder",
-        "notification": "You find evidence of Natural Wonder. Nearby Natural Wonder are revealed!",
-        "uniques": ["Reveal up to [All] [NaturalWonder] within a [20] tile radius"]
-    },
-  ]
